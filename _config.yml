@@ -1,0 +1,12 @@
+# Site settings
+title: Geeky Stuff
+email: vijay.sali@gmail.com
+description: "Geek, Tech savvy,Web developer , Loves to develope technologies, Google Fan boy, interested to learn new things,Ambitious ..."
+baseurl: ""
+url: "vijaysali.in"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+username: vijaysali
+firstname: VIJAYSALI 
