@@ -32,9 +32,22 @@ a:visited { color: #205caa; }
   padding: 0 30px;
   margin: 0 auto;
   zoom: 1;
-  margin:10px auto !important;
 }
 
+.art-head{
+  max-width: 800px;
+  height: 250px;
+  padding: 0;
+  margin: 0 auto;
+  background-color: rgb(242, 229, 253);
+}
+
+.summary-content {
+       font-size: 10px; 
+       font-family: monospace; 
+       font-weight: 200; 
+       margin-left: 20px; 
+}
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/
