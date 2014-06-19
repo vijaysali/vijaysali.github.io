@@ -36,14 +36,14 @@ a:visited { color: #205caa; }
 
 .art-head{
   max-width: 800px;
-  height: 250px;
+  height: 300px;
   padding: 0;
   margin: 0 auto;
   background-color: rgb(242, 229, 253);
 }
 
 .summary-content {
-       font-size: 10px; 
+       font-size: 12px; 
        font-family: monospace; 
        font-weight: 200; 
        margin-left: 20px; 
@@ -187,6 +187,10 @@ a:visited { color: #205caa; }
   letter-spacing: -1.75px;
   line-height: 1;
   font-weight: 300;
+}
+.content-header{
+  font-size: 42px;
+  font-weight: 400px;
 }
 
 .post-header .meta {
