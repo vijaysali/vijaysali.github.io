@@ -1,7 +1,7 @@
 # Site settings
-title: Geeky Stuff
+title: Dev in role
 email: vijay.sali@gmail.com
-description: "Geek, Tech savvy,Web developer, Google Fan boy, interested to learn new things,Ambitious ..."
+description: ""
 baseurl: ""
 url: "vijaysali.in"
 
@@ -9,5 +9,5 @@ url: "vijaysali.in"
 markdown: kramdown
 permalink: pretty
 username: vijaysali
-firstname: VIJAYSALI 
+firstname: VIJAYSALI
 my_address: "From Dharwad ,Lives in Bangalore -KA , INDIA"
